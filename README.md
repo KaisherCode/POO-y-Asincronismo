@@ -78,7 +78,7 @@ trim_trailing_whitespace = false>
 ```
 _- En la carpeta del proyecto `ts-poo` crear los directorios `src` y `dist`_
 
-_- Para finalizar configuración del proyecto editar el archivo `tsconfig.json` ubicar la línea de código `"outDir": "./"` y modificar a `"outDir": "./dist"`para que todo el transpilado se vaya al directorio `./dist`:
+_- Para finalizar configuración del proyecto editar el archivo `tsconfig.json` ubicar la línea de código `"outDir": "./"` y modificar a `"outDir": "./dist"`para que todo el transpilado se vaya al directorio `./dist`:_
 ```json
 // ...
 "outDir": "./dist",
