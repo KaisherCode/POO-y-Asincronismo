@@ -84,3 +84,33 @@ _- Para finalizar configuración del proyecto editar el archivo `tsconfig.json` 
 "outDir": "./dist",
 // ...
 ```
+
+## **[Fundamentos de POO](#fundamentos-de-poo)**
+
+### [Clases](#clases)
+
+_Una clase en TypeScript es una estructura que permite crear objetos con propiedades y métodos definidos. Es similar a una clase en JavaScript, pero con tipado estático y otras características adicionales._
+
+_Los clases en TS nos sirven para construir instancias de objetos. Es como una plantilla o molde en donde vamos a crear metódos, configuraciones y comportamientos._
+
+La sintaxis básica es:
+
+```ts
+class NombreClase {
+  // Propiedades
+  propiedad: tipo;
+
+  // Constructor
+  constructor(parametro: tipo) {
+    this.propiedad = parametro;
+  }
+
+  // Métodos
+  metodo(): tipo {
+    // Lógica del método
+  }
+}
+
+```
+
+_Recuerda reemplazar `NombreClase`, `propiedad`, `tipo`, y `parametro` con nombres y tipos apropiados para tu casao de uso._
