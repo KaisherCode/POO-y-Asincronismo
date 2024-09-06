@@ -1,0 +1,33 @@
+# **Programación Orientada a objetos y Asincronismo**
+
+## **Tabla de Contenido**
+
+- [Introducción](#introduccion)
+  - [Configuración del proyecto](#configSetup)
+- [Fundamentos de POO](#fundamentosPoo)
+  - [Class](#class)
+  - [Métodos](#metodos)
+  - [Acceso público](#accesoPublico)
+  - [ Constructor](#constructor)
+  - [Getters](#getters)
+  - [Setters](#setters)
+- [POO Avanzada](#pooAvanzada)
+  - [Herencia](#herencia)
+  - [Acceso protegido](#accesoProtegido)
+  - [Static](#static)
+  - [Interfaces](#interfaces)
+  - [Clases abstractas](#clasesAbstractas)
+  - [Singleton: constructor privado](#singleton)
+- [Asincronismo y consumo de APIs](#asincronismoApis)
+  - [Promesas](#promesas)
+  - [Tipando respuestas HTTP](#tipandoRespuestasHttp)
+  - [Proyecto: migración de funciones a clases](#proyectoMigracionFunciones)
+  - [Consumiendo ProductMemoryService](#consumiendoProductMemoryService)
+  - [ProductHttpService](#productHttpService)
+  - [Consumiendo ProductHttpService](#consumiendoProductHttpService)
+- [Genéricos](#genericos)
+  - [Generics](#generics)
+  - [Generics en clases](#genericsClases)
+  - [Generics en métodos](#genericsMetodos)
+  - [Decoradores](#decoradores)
+
